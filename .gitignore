@@ -1,0 +1,60 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+/dist
+
+# misc
+.DS_Store
+.env
+.env.*
+
+# testing
+/coverage
+/jest.config.js
+/.jest
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Optional: TypeScript
+*.tsbuildinfo
+
+# Optional: SASS cache
+.sass-cache
+
+# Optional: Next.js
+.next
+
+# Optional: Vite
+.vite
+
+# Optional: Parcel
+.cache
+
+# Optional: Storybook
+out/
+storybook-static/
+
+# Optional: local dev tools
+.local
+
+# Optional: ESLint cache
+.eslintcache
