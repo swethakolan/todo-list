@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swethakolan/ToDoList/static/css/main.44eca4b3.css",
+    "main.js": "/swethakolan/ToDoList/static/js/main.c7bdb785.js",
+    "index.html": "/swethakolan/ToDoList/index.html",
+    "main.44eca4b3.css.map": "/swethakolan/ToDoList/static/css/main.44eca4b3.css.map",
+    "main.c7bdb785.js.map": "/swethakolan/ToDoList/static/js/main.c7bdb785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44eca4b3.css",
+    "static/js/main.c7bdb785.js"
+  ]
+}
